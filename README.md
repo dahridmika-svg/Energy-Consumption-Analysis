@@ -31,3 +31,13 @@ This project analyzes household electricity consumption data using Python. The o
 - Daily and monthly energy trends
 - Energy consumption forecasting
 - Machine learning models for prediction
+
+## Visualizations
+
+### Power Consumption Trend
+
+![Power Consumption](power_consumption.png)
+
+### Power Distribution
+
+![Power Distribution](power_distribution.png)
